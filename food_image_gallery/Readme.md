@@ -37,7 +37,7 @@ To view this project, simply follow these steps:
     ```
 3.  Open the `index.html` file in your preferred web browser.
 
-Alternatively, you can view a live demo **[here](https://stareawesome123.github.io/web-development/food_image_gallery/)**.
+Alternatively, you can view a live demo **[here](https://stareawesome123.github.io/web-development/food_image_gallery/imageGallery.html)**.
 
 ---
 
@@ -47,3 +47,4 @@ Alternatively, you can view a live demo **[here](https://stareawesome123.github.
 * `style.css`: The CSS file for all styling rules.
 
 * `images/` (or similar folder): A directory containing all the image files used in the gallery.
+
