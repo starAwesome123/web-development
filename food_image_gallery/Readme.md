@@ -43,6 +43,7 @@ Alternatively, you can view a live demo **[here](https://stareawesome123.github.
 
 ### Files Included 📁
 
-* `index.html`: The main HTML file containing the gallery's structure.
+* `imageGallery.html`: The main HTML file containing the gallery's structure.
 * `style.css`: The CSS file for all styling rules.
+
 * `images/` (or similar folder): A directory containing all the image files used in the gallery.
