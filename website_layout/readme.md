@@ -34,11 +34,11 @@ To view this project, simply follow these steps:
     ```
 2.  Navigate to the project's directory.
     ```bash
-    cd web-development/your-project-folder-name
+    cd web-development/website_layout
     ```
 3.  Open the `index.html` file in your preferred web browser.
 
-Alternatively, you can view a live demo **[here](https://starawesome123.github.io/web-development/food_image_gallery/index.html)**.
+Alternatively, you can view a live demo **[here](https://starawesome123.github.io/web-development/website_layout/index.html)**.
 
 ---
 
@@ -46,4 +46,5 @@ Alternatively, you can view a live demo **[here](https://starawesome123.github.i
 
 * `index.html`: The main HTML file containing the Home page content.
 * `contact.html`: The HTML file for the Contact page.
+
 * `style.css`: The consolidated CSS file for all styling rules.
