@@ -1,6 +1,7 @@
 # To-Do List App
 
 This project is a simple, modern To-Do List web application built using HTML, CSS, and JavaScript. It allows users to add tasks, mark them as complete, and delete them. The app uses local storage to save tasks, so your list will persist even if you close and reopen your browser.
+
 ---
 ### Features 📋
 Add Tasks: Easily add new tasks by typing into the input field and pressing the "Add" button or the Enter key.
@@ -47,4 +48,5 @@ index.js: The JavaScript file containing the application logic.
 
 
 style.css: The CSS file for all styling rules.
+
 
