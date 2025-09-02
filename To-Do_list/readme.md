@@ -50,3 +50,4 @@ index.js: The JavaScript file containing the application logic.
 style.css: The CSS file for all styling rules.
 
 
+
