@@ -1,0 +1,97 @@
+body{
+    background-color: #f2f2f2;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+h2{
+    text-align: center;
+    font-size: 2em;
+    color: #333;
+}
+#container{
+    background-color: white;
+    width: 90%;
+    max-width: 450px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#myInput {
+    border-radius: 5px;
+    height: 40px;
+    width: 70%;
+    padding: 0 10px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+}
+
+#add{
+    border-radius: 5px;
+    background-color: #1b26ff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-left: 5px;
+}
+
+#add:hover {
+    background-color: #0d127a;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f8f8f8;
+    margin-top: 10px;
+    padding: 10px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    cursor: pointer;
+    position: relative;
+    user-select: none;
+}
+li:hover {
+    background-color: #eaeaea;
+}
+
+li span {
+    word-break: break-word;
+}
+
+.checked {
+    color: #555;
+    text-decoration: line-through;
+}
+
+.checkedd::before {
+    content: '\f00c';
+    font-family: 'Font Awesome 7 Free';
+    font-weight: 900;
+    font-size: 1.2rem;
+    color: green;
+    margin-right: 15px;
+}
+
+.fa-trash-can {
+    color: #ff5c5c;
+    cursor: pointer;
+    transition: color 0.3s;
+    font-size: 1.2em;
+}
+
+.fa-trash-can:hover {
+    color: darkred;
+}
