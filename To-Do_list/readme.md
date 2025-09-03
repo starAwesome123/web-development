@@ -38,7 +38,7 @@ To view this project, simply follow these steps:
     ```
 3.  Open the `index.html` file in your preferred web browser.
 
-Alternatively, you can view a live demo **[here](https://stareawesome123.github.io/web-development/To-Do_list/index.html)**.
+Alternatively, you can view a live demo **[here](https://starawesome123.github.io/web-development/To-Do_list/index.html)**.
 ---
 
 ### Files Included 📁
@@ -48,6 +48,7 @@ index.js: The JavaScript file containing the application logic.
 
 
 style.css: The CSS file for all styling rules.
+
 
 
 
