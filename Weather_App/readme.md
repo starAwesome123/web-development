@@ -20,10 +20,15 @@ This project is a simple, single-page web application that fetches and displays 
 This project was built using the following core technologies:
 
 **HTML5**: For the basic structure and content.
+
 **Tailwind CSS**: For all styling, including layout and responsiveness. This is included via a CDN.
+
 **JavaScript**: For the application logic, handling user input, and making API requests.
+
 **Axios**: A JavaScript library used to make API requests to the OpenWeatherMap API.
+
 **Font Awesome**: For the dynamic weather icons.
+
 **OpenWeatherMap API**: The external service providing the weather data.
 
 ### How to View the Project 👀
@@ -50,4 +55,5 @@ Alternatively, you can view a live demo **[here](https://starawesome123.github.i
 * `index.html`: The main HTML file containing the weather app structure.
 * `index.js`: The JavaScript file for the code to function.
 * `style.css`: The consolidated CSS file for all styling rules.
+
 
